@@ -1,3 +1,8 @@
+/*
+ * Date: 15/02/2017
+ * Michael Saly
+ */
+
 package huffman;
 import java.util.PriorityQueue;
 import java.util.Scanner;

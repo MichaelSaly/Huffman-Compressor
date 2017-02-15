@@ -1,3 +1,8 @@
+/*
+ * Date: 15/02/2017
+ * Michael Saly
+ */
+
 package huffman;
 
 public class Tree implements Comparable<Tree>{
